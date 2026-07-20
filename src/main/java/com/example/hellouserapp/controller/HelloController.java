@@ -7,6 +7,6 @@ public class HelloController
 @GetMapping("/hello")
 public String sayHello()
  {
-return "Hello User! This is your application";
+return "Hello User! This is my application";
 }
 }
